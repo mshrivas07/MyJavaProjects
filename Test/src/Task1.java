@@ -5,7 +5,7 @@ public class Task1 {
 		// TODO Auto-generated method stub
 		int arr[] = {1,2,3,-5};
 		Task1 t = new Task1();
-		System.out.println("output: "+t.solution(arr));
+		System.out.println("output:"+t.solution(arr));
 	}
 	
 	
